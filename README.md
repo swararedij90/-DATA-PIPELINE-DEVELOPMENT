@@ -54,10 +54,25 @@ Government and Research: Handling census or survey datasets for policy developme
 
 outputs:
 real_dataset: 
+
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/df075499-b3bf-4984-8d7f-483b1d89fc20)
 code_output: 
+
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/77b8ae77-9120-4adf-b11f-0aa3363ccce2)
 processed_data: 
+
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/841e5e53-a068-42b4-a3fe-7aff09a59715)
 
 
