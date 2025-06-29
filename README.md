@@ -53,5 +53,7 @@ Banking: Transforming customer and transaction data before feeding it into fraud
 Government and Research: Handling census or survey datasets for policy development or social studies.
 
 output:![Image](https://github.com/user-attachments/assets/df075499-b3bf-4984-8d7f-483b1d89fc20)
+![Image](https://github.com/user-attachments/assets/77b8ae77-9120-4adf-b11f-0aa3363ccce2)
+
 
 
