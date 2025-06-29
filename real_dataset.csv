@@ -1,0 +1,6 @@
+Name,Age,Gender,Income
+Alice,25.0,F,52000
+Bob,30.0,M,58000
+Charlie,,M,61000
+David,22.0,,49000
+Eva,28.0,F,53000
