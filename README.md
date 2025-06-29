@@ -52,6 +52,6 @@ E-commerce: Preparing order and transaction logs for recommendation systems.
 Banking: Transforming customer and transaction data before feeding it into fraud detection models.
 Government and Research: Handling census or survey datasets for policy development or social studies.
 
-
+output:![Image](https://github.com/user-attachments/assets/df075499-b3bf-4984-8d7f-483b1d89fc20)
 
 
