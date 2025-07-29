@@ -5,7 +5,7 @@
 **Internship Duration:** 6 Weeks (Starting 14 June 2025) 
 **Mentor:** Neela Santosh  
 
-## 📁 Project Description
+project description:
 This project, titled “Efficient Data Cleaning and Transformation Pipeline using Python and Pandas,” focuses on one of the most critical aspects of data science — data preprocessing. As part of my internship under Codetech IT Solutions, I was tasked with building a modular and reusable data pipeline that could automatically clean, transform, and prepare raw data for downstream analysis or machine learning tasks.
 Objective:
 In real-world data science applications, raw data is often messy, inconsistent, and incomplete. This task aimed to simulate such a scenario by using a sample dataset containing missing values, incorrect formats, and inconsistencies. My objective was to use Python and relevant libraries to build a pipeline that performs:
